@@ -1,0 +1,143 @@
+body {
+    background-color: #9fd4e4;
+    background-repeat:no-repeat, no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    background-color: #333;
+  }
+  h2 {
+    color: white;
+    text-align: center;
+    background-color: #333;
+  }
+  
+  p {
+    font-family: OTF;
+    font-size: 25px;
+    text-indent: 30px;
+    color: Black;
+    margin-left: 15%;
+    margin-right: 15%;
+
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  
+  /*Image sizing*/
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border: 5px #231f27 outset;
+  }
+
+
+  table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid;
+    
+    background-color: rgb(209, 205, 205);
+    
+  }
+
+  #favoriteWebsites-li{
+    color: Black;
+    text-align: left;
+    float: none;
+    margin: 25px;
+  }
+  #favoriteWebsites-ol{
+    columns: auto;
+    color: Black;
+  }
+  #favoriteWebsites-a{
+    text-align: left;
+    color:Black;
+    background: none;
+    
+  }
+  #hobbies-li{
+    color: Black;
+    text-align: left;
+    float: none;
+    margin: 25px;
+    background-color: none;
+  }
+  #hobbies-ul{
+    columns: auto;
+    color: Black;
+    background-color: none;
+  }
+  #books-li{
+    color: black;
+    text-align: left;
+    float: none;
+    margin: 65px;
+    list-style: decimal;
+    
+  }
+  #books-ul{
+    columns: auto;
+    color: Black;
+    background-color: #9fd4e4;
+  }
+  
+  #movies-li{
+    color: black;
+    text-align: left;
+    float: none;
+    margin: 65px;
+    list-style: decimal;
+    font-size: medium;
+  }
+  
+  #movies-ul{
+    columns: auto;
+    color: black;
+    background-color: #9fd4e4;
+    size: 10px;
+  }
+
+  #sukiBanditCaitlin{
+    display: block;
+    margin-left: 5%;
+    margin-right: auto;
+    width: 50%;
+    border: 5px #231f27 outset;
+  }
+
+  #annieCaitlin{
+    margin-left: auto;
+    margin-right: 15%;
+    width: 25%;
+    border: 5px #231f27 outset;
+  }
